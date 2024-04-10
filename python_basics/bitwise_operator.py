@@ -1,0 +1,6 @@
+print(26&23)
+print(17|24)
+print(17^24)
+print(~43)
+print(64<<3)
+print(56>>3)
