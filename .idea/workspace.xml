@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93b0232b-d830-4d2b-a2b4-ee243b3e2ae1" name="Changes" comment="add more files">
-      <change afterPath="$PROJECT_DIR$/python_basics/arithmetic_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basics/bitwise_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basics/emoji_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basics/even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basics/guessNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basics/leap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basics/mosh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basics/round.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basics/ecommerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basics/ecommerce/shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basics/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basics/moduls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basics/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basics/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basics/classes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,29 +51,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.add_two_digits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arithmetic_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bitwise_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calc_bmi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even_or_odd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guessNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leap.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mosh.executor&quot;: &quot;Run&quot;,
-    &quot;Python.round.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ayode/PycharmProjects/pythonProject1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.add_two_digits.executor": "Run",
+    "Python.arithmetic_operators.executor": "Run",
+    "Python.bitwise_operator.executor": "Run",
+    "Python.calc_bmi.executor": "Run",
+    "Python.car_game.executor": "Run",
+    "Python.classes.executor": "Run",
+    "Python.even_or_odd.executor": "Run",
+    "Python.guessNumber.executor": "Run",
+    "Python.guess_number.executor": "Run",
+    "Python.inheritance.executor": "Run",
+    "Python.leap.executor": "Run",
+    "Python.moduls.executor": "Run",
+    "Python.mosh.executor": "Run",
+    "Python.round.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ayode/PycharmProjects/pythonProject1",
+    "settings.editor.selected.configurable": "settings.sync"
   }
-}</component>
-  <component name="RunManager" selected="Python.mosh">
-    <configuration name="car_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.moduls">
+    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ayode\PycharmProjects\pythonProject\python_basics\car_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basics/classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="even_or_odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basics/even_or_odd.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ayode\PycharmProjects\pythonProject\python_basics\exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basics/leap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basics/inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mosh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="moduls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basics/mosh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basics/moduls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mosh" />
+        <item itemvalue="Python.moduls" />
+        <item itemvalue="Python.inheritance" />
+        <item itemvalue="Python.classes" />
+        <item itemvalue="Python.exceptions" />
         <item itemvalue="Python.emoji_converter" />
-        <item itemvalue="Python.car_game" />
-        <item itemvalue="Python.leap" />
-        <item itemvalue="Python.even_or_odd" />
       </list>
     </recent_temporary>
   </component>
